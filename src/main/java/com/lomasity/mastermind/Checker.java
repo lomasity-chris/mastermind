@@ -5,7 +5,7 @@ public class Checker {
 	private static final char USED = ' ';
 	private static final int CODE_LENGTH = 5;
 	private static final String RED_PEG = "R";
-	private static final Object BLACK_PEG = "B";
+	private static final String BLACK_PEG = "B";
 
 	public String check(final String actualCode, final String guess) {
 
